@@ -26,7 +26,7 @@ public class Application {
             System.out.println("6. Remove Class");
             System.out.println("7. View Availability by Day");
             System.out.println("8. View Availability by Grade");
-            System.out.println("9. View Availability by Beginner");
+            System.out.println("9. View Availability by Mentor");
             System.out.println("10. Book Class");
             System.out.println("11. Cancel Class");
             System.out.println("12. Attend Class");
